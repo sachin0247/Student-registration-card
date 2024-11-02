@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: poppins;
+}
+
+.reg-table {
+  height: 300px;
+  overflow-x: auto;
+}
+
+body {
+  background: antiquewhite;
+  color: rgb(0, 0, 0);
+}
